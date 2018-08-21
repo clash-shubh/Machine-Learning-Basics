@@ -1,2 +1,2 @@
 # Machine-Learning-Basics
-Training Files Of Machine Learning
+All Training Files of Machine Learning used in the Industrial Training.
